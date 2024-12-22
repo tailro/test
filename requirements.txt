@@ -3,4 +3,3 @@ requests
 python-telegram-bot
 nest-asyncio
 psutil
-python-libtorrent
